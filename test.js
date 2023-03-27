@@ -1,1 +1,8 @@
-alert(1)
+function test(){
+alert(1);
+}
+test();
+console.log("XSS"); 
+
+
+
